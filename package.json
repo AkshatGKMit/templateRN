@@ -1,6 +1,24 @@
 {
-	"name": "react-native-template-simpleredux-boilerplate1",
+	"name": "react-native-template-typescript",
 	"version": "0.0.1",
-	"description": "React Native Simple Redux with Navigation Template",
+	"description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+	"scripts": {
+		"test": "exit 0"
+	},
+	"files": [
+		"template",
+		"template.config.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AkshatGKMit/templateRN"
+	},
+	"keywords": [
+		"react-native",
+		"typescript",
+		"jest",
+		"template",
+		"boilerplate"
+	],
 	"license": "MIT"
 }
